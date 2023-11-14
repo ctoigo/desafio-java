@@ -1,0 +1,17 @@
+/Users/chrystiantoigo/Projetos/Java/DesafioRestFull/src/main/java/com/mycompany/desafiorestfull/service/MembroService.java
+/Users/chrystiantoigo/Projetos/Java/DesafioRestFull/src/main/java/com/mycompany/desafiorestfull/controller/MembroController.java
+/Users/chrystiantoigo/Projetos/Java/DesafioRestFull/src/main/java/com/mycompany/desafiorestfull/exception/MembroNotFoundException.java
+/Users/chrystiantoigo/Projetos/Java/DesafioRestFull/src/main/java/com/mycompany/desafiorestfull/exception/ProjetoNotFoundException.java
+/Users/chrystiantoigo/Projetos/Java/DesafioRestFull/src/main/java/com/mycompany/desafiorestfull/repository/ProjetoRepository.java
+/Users/chrystiantoigo/Projetos/Java/DesafioRestFull/src/main/java/com/mycompany/desafiorestfull/model/Projeto.java
+/Users/chrystiantoigo/Projetos/Java/DesafioRestFull/src/main/java/com/mycompany/desafiorestfull/repository/PessoaRepository.java
+/Users/chrystiantoigo/Projetos/Java/DesafioRestFull/src/main/java/com/mycompany/desafiorestfull/App.java
+/Users/chrystiantoigo/Projetos/Java/DesafioRestFull/src/main/java/com/mycompany/desafiorestfull/exception/StatusInvalidoException.java
+/Users/chrystiantoigo/Projetos/Java/DesafioRestFull/src/main/java/com/mycompany/desafiorestfull/model/Pessoa.java
+/Users/chrystiantoigo/Projetos/Java/DesafioRestFull/src/main/java/com/mycompany/desafiorestfull/exception/AtribuicaoInvalidaException.java
+/Users/chrystiantoigo/Projetos/Java/DesafioRestFull/src/main/java/com/mycompany/desafiorestfull/repository/MembroRepository.java
+/Users/chrystiantoigo/Projetos/Java/DesafioRestFull/src/main/java/com/mycompany/desafiorestfull/service/ProjetoService.java
+/Users/chrystiantoigo/Projetos/Java/DesafioRestFull/src/main/java/com/mycompany/desafiorestfull/service/PessoaService.java
+/Users/chrystiantoigo/Projetos/Java/DesafioRestFull/src/main/java/com/mycompany/desafiorestfull/controller/ProjetoController.java
+/Users/chrystiantoigo/Projetos/Java/DesafioRestFull/src/main/java/com/mycompany/desafiorestfull/model/Membro.java
+/Users/chrystiantoigo/Projetos/Java/DesafioRestFull/src/main/java/com/mycompany/desafiorestfull/controller/PessoaController.java

@@ -1,0 +1,17 @@
+com/mycompany/desafiorestfull/service/PessoaService.class
+com/mycompany/desafiorestfull/exception/StatusInvalidoException.class
+com/mycompany/desafiorestfull/controller/ProjetoController.class
+com/mycompany/desafiorestfull/repository/ProjetoRepository.class
+com/mycompany/desafiorestfull/App.class
+com/mycompany/desafiorestfull/exception/ProjetoNotFoundException.class
+com/mycompany/desafiorestfull/repository/PessoaRepository.class
+com/mycompany/desafiorestfull/service/MembroService.class
+com/mycompany/desafiorestfull/controller/PessoaController.class
+com/mycompany/desafiorestfull/model/Projeto.class
+com/mycompany/desafiorestfull/service/ProjetoService.class
+com/mycompany/desafiorestfull/controller/MembroController.class
+com/mycompany/desafiorestfull/repository/MembroRepository.class
+com/mycompany/desafiorestfull/exception/MembroNotFoundException.class
+com/mycompany/desafiorestfull/model/Pessoa.class
+com/mycompany/desafiorestfull/exception/AtribuicaoInvalidaException.class
+com/mycompany/desafiorestfull/model/Membro.class
